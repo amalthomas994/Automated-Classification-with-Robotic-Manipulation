@@ -1,1 +1,1 @@
-# Automated-Classification-with-Robotic-Manipulation
+# Automated Classification with Robotic Manipulation
